@@ -80,7 +80,7 @@
 2.  **选择** "Create a new repository"。
 
 > **💡 为什么要这样做？**
-> * **Use this template**：创建一个全新的、干净的仓库，没有历史包袱。
+> * **Use this template**：创建一个全新的、干净的仓库，没有历史包袱22。
 > * **Fork**：会保留完整的提交历史和关联关系，占用 GitHub 更多资源。
 
 #### 2. ☁️ 关于 GitHub Actions 必配的远程存储
